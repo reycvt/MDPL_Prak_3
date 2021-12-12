@@ -27,5 +27,4 @@ MDPL Praktik Kelompok 3
     - Melakukan Revisi
 
 Link Figma [Design Mobile UI SRS Rawat Inap Kelompok 3](https://www.figma.com/file/ILykDzjBmlpKUpwEyUrfZ9/Untitled?node-id=26%3A321)
-
-
+Link Figma UI Tiket Pesawat : https://www.figma.com/file/8dMPSKEqMxpMnQOTuLkwRQ/Untitled?node-id=0%3A1 
