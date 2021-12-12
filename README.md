@@ -21,7 +21,7 @@ MDPL Praktik Kelompok 3
     - Membuat design UI 
     - Membuat Bab 2, Membuat Squence Diagram
     - 
-    - Pembuatan Aplikasi Pemesanan Tiket Pesawat, Bagian Bagian Login, Registrasi, dan Menu Utama Pencarian Tiket
+    - Pembuatan Aplikasi Pemesanan Tiket Pesawat, Bagian Login, Registrasi, dan Menu Utama Pencarian Tiket
     - Membuat UI design Pemesanan Tiket Pesawat
     - Merancang Laporan RAD SI Pemesanan Tiket Pesawat, Use Case dan Sequence Diagram
     - Melakukan Revisi
